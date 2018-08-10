@@ -12,14 +12,17 @@ namespace ShayneMaravillo.PreLoved.Web
 {
     public class Program
     {
+        public static object lPAddress { get; private set; }
+
         public static void Main(string[] args)
         {
-            BuildWebHost(args).Run();
         }
 
-        public static IWebHost BuildWebHost(string[] args) =>
+        public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
-                .UseStartup<Startup>()
-                .Build();
+                .UseKestrel(options => { options.Listen(IPAddress.Loopback, 6100); })
+                .UseStartup<Startup>();
     }
+}
+
 }

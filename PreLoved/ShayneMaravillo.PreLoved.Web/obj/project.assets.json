@@ -12669,11 +12669,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Shayne Maravillo\\Documents\\Seed\\ShayneMaravillo.PreLoved\\ShayneMaravillo.PreLoved.Web\\ShayneMaravillo.PreLoved.Web.csproj",
+      "projectUniqueName": "C:\\Users\\Shayne Maravillo\\Documents\\Project\\PreLoved\\ShayneMaravillo.PreLoved.Web\\ShayneMaravillo.PreLoved.Web.csproj",
       "projectName": "ShayneMaravillo.PreLoved.Web",
-      "projectPath": "C:\\Users\\Shayne Maravillo\\Documents\\Seed\\ShayneMaravillo.PreLoved\\ShayneMaravillo.PreLoved.Web\\ShayneMaravillo.PreLoved.Web.csproj",
+      "projectPath": "C:\\Users\\Shayne Maravillo\\Documents\\Project\\PreLoved\\ShayneMaravillo.PreLoved.Web\\ShayneMaravillo.PreLoved.Web.csproj",
       "packagesPath": "C:\\Users\\Shayne Maravillo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Shayne Maravillo\\Documents\\Seed\\ShayneMaravillo.PreLoved\\ShayneMaravillo.PreLoved.Web\\obj\\",
+      "outputPath": "C:\\Users\\Shayne Maravillo\\Documents\\Project\\PreLoved\\ShayneMaravillo.PreLoved.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

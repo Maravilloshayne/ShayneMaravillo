@@ -1,0 +1,8 @@
+C:\Users\Shayne Maravillo\Documents\Project\PreLoved\ShayneMaravillo.PreLoved.Web\obj\Debug\netcoreapp2.0\ShayneMaravillo.PreLoved.Web.csprojAssemblyReference.cache
+C:\Users\Shayne Maravillo\Documents\Project\PreLoved\ShayneMaravillo.PreLoved.Web\obj\Debug\netcoreapp2.0\ShayneMaravillo.PreLoved.Web.csproj.CoreCompileInputs.cache
+C:\Users\Shayne Maravillo\Documents\Project\PreLoved\ShayneMaravillo.PreLoved.Web\obj\Debug\netcoreapp2.0\ShayneMaravillo.PreLoved.Web.AssemblyInfoInputs.cache
+C:\Users\Shayne Maravillo\Documents\Project\PreLoved\ShayneMaravillo.PreLoved.Web\obj\Debug\netcoreapp2.0\ShayneMaravillo.PreLoved.Web.AssemblyInfo.cs
+C:\Users\Shayne Maravillo\Documents\Project\PreLoved\ShayneMaravillo.PreLoved.Web\bin\Debug\netcoreapp2.0\ShayneMaravillo.PreLoved.Web.deps.json
+C:\Users\Shayne Maravillo\Documents\Project\PreLoved\ShayneMaravillo.PreLoved.Web\bin\Debug\netcoreapp2.0\ShayneMaravillo.PreLoved.Web.runtimeconfig.json
+C:\Users\Shayne Maravillo\Documents\Project\PreLoved\ShayneMaravillo.PreLoved.Web\bin\Debug\netcoreapp2.0\ShayneMaravillo.PreLoved.Web.runtimeconfig.dev.json
+C:\Users\Shayne Maravillo\Documents\Project\PreLoved\ShayneMaravillo.PreLoved.Web\bin\Debug\netcoreapp2.0\ShayneMaravillo.PreLoved.Web.dll
